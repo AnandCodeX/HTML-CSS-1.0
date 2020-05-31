@@ -1,0 +1,79 @@
+.img1{
+margin: 0px 0px;
+
+}
+
+.menu{
+background-color: rgb(19, 14, 10);
+}
+
+hr{
+background-color:whitesmoke;	
+height: 2px;
+width: 90%;
+
+}
+
+.abx  {
+	background: transparent url(./image/garden-3.jpg) no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px auto 0px;
+	
+	
+}
+
+.bq{
+
+	margin-left: 25%;
+}
+/* .aby{
+border-color: red;
+width: 20px;
+
+}
+ */
+#f1 {
+	background: transparent url(./image/garden-3.jpg) no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	height: 50pc;
+	margin: 0px -15px;
+}
+
+.carousel-item img{
+ width: auto;
+ height: 245px;
+ max-height: 575px;
+ margin: auto; 
+ display: block;
+ }
+
+
+.bdr{
+	width: 16cm;
+	height: 40pc;
+	
+	text-align: center center;
+	border: 2px solid transparent;
+	height: 600px;
+	width: 80%;
+	margin: 0px 125px 0px;
+	align-content: center center;
+}
+
+
+.bdr1 {
+	width: 20cm;
+	height: 40pc;
+	text-align: center center;
+	border: 2px solid transparent;
+	height: 600px;
+	width: 80%;
+	margin: 0px 125px 0px;
+	align-content: center center;
+}
+
+
